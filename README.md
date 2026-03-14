@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul327&label=Profile%20views&color=0e75b6&style=flat" alt="atul327" /> </p>
 
-- 🔭 I’m currently working on **Fake Headline Generator**
-
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
 - 📫 How to reach me **atulpatle006@gmail.com**
